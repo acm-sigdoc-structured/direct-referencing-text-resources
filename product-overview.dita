@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_bpd_4tj_c2c">
+    <title>Product overview </title>
+    <body>
+        <p><keyword conref="./library-basic.dita#library-basic/kw_company-name"/> now offers the
+            following bike mirror at all our Bikes-R-Us stores:</p>
+        <p><b>Product name:</b>
+            <keyword conref="library-products.dita#library-products/kw_product-name"/></p>
+        <p><b>Product part number:</b>
+            <keyword conref="library-products.dita#library-products/kw_product-partno"/></p>
+        <p><b>Price:</b>
+            <keyword conref="library-products.dita#library-products/kw_product-cost"/></p>
+    </body>
+</topic>

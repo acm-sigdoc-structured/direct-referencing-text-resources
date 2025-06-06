@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="library-basic">
+    <title>Library of reusable text resources - for product-independent content.</title>
+    <body>
+      <!-- Company information -->  
+        <p><keyword id="kw_company-name">Bob's Bike Mirrors</keyword></p>
+        <p><keyword id="kw_company-address">5 Farside Dr., Chicago IL</keyword></p>
+        <p><keyword id="kw_company_support">888-555-6200</keyword></p>
+      <!-- Other resources -->
+        <p><keyword id="kw_company-headquarters">Chicago</keyword></p>
+        <p><ph id="ph_company-ceo">Bob Manchester</ph></p>
+        <p><text id="text_company-slogan">We see you comin’!</text></p>
+    </body>
+</topic>

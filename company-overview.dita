@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_bpd_4tj_c2c">
+    <title>Company overview </title>
+    <body>
+        <p>Moving into the Boston area is a new company providing the latest in mirror design,
+                <keyword conref="./library-basic.dita#library-basic/kw_company-name"/>. </p>
+        <p>It was founded by <ph conref="library-basic.dita#library-basic/ph_company-ceo"/> in
+                <keyword conref="library-basic.dita#library-basic/kw_company-headquarters"/> five
+            years ago. Welcome <keyword conref="./library-basic.dita#library-basic/kw_company-name"
+            />! </p>
+    </body>
+</topic>

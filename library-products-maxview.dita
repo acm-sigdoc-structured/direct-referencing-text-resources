@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="library-products">
+    <title>Library of reusable text resources - for product-specific content.</title>
+    <body>
+	
+      <!-- Product-specific resources stored in library-products-everlast.dita -->
+      <!-- or library-products-maxview.dita get copied over to -->
+	  <!-- library-products.dita at build time to generate either Everlast-specific -->
+	  <!-- or MaxView-specific resource values. -->
+	
+      <!-- Product-specific resources stored in library-products-maxview.dita --> 
+	  <!-- This library-products-maxview.dita library gets copied over -->
+	  <!-- library-products.dita at build time to generate MaxView-specific -->
+	  <!-- resource values. -->
+        <p><keyword id="kw_product-name">MaxView Mirror</keyword></p>
+        <p><keyword id="kw_product-partno">2025-02-001</keyword></p>
+        <p><keyword id="kw_product-cost">$29.99</keyword></p>
+    </body>
+</topic>
